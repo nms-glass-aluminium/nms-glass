@@ -56,7 +56,7 @@ lib/
 #### Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/simple-flutter-website.git
+git clone https://github.com/nms-glass-aluminium/nms-glass.git
 ```
 ## Screens
 
