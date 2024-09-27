@@ -34,3 +34,7 @@ lib/
 └── widgets/
     ├── about_us.dart
     └── app_bar.dart
+```
+main.dart: Entry point of the Flutter web application.
+screens/: Directory that holds the individual screen files.
+widgets/: Reusable components such as the AppBar and About Us section
